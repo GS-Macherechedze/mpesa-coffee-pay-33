@@ -1,4 +1,3 @@
-
 export interface CoffeeProduct {
   id: number;
   name: string;
@@ -33,8 +32,8 @@ export const coffeeProducts: CoffeeProduct[] = [
     id: 4,
     name: "Mocha",
     description: "Chocolate-infused espresso topped with steamed milk",
-    price: 220,
-    image: "https://images.unsplash.com/photo-1607260089269-242eaaf60633?q=80&w=450&auto=format&fit=crop"
+    price: 20,
+    image: "https://images.unsplash.com/photo-1579767121724-15aea324fdfb?q=80&w=450&auto=format&fit=crop"
   },
   {
     id: 5,
